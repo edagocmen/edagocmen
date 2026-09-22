@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+Languages: C, Python
+Tools: VS Code, Dev C++
+Interests: Machine Learning, Cybersecurity, Data Security, Object Oriented Programming
 
 <!--
 **edagocmen/edagocmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
